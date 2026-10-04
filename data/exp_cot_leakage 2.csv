@@ -1,0 +1,8 @@
+file,total,imperative_self_talk,instruction_leak,meta_persona,plan_disclosure,role_self_reveal,step_by_step,structured_marker
+exp_rag_qwen36rag_vs_qwen3next_1.json,0,0,0,0,0,0,0,0
+exp_rag_qwen36rag_vs_qwen3next_2.json,0,0,0,0,0,0,0,0
+exp_smoke_gemma_vs_qwen36_1.json,0,0,0,0,0,0,0,0
+exp_smoke_qwen36_vs_qwen3next_1.json,0,0,0,0,0,0,0,0
+exp_smoke_qwen3next_vs_qwen36_1.json,0,0,0,0,0,0,0,0
+exp_smoke_qwen3next_vs_qwen3next_1.json,0,0,0,0,0,0,0,0
+smoke_qwen3next_vs_qwen3next_1.json,0,0,0,0,0,0,0,0

@@ -1,0 +1,24 @@
+metric,gemma4-31b,qwen3-next-80b,qwen36-35b,total
+total_games,241,60,295,596
+total_uses,8466,923,12677,22066
+appeal to logic,2220,389,3511,6120
+appeal to urgency,612,14,3240,3866
+strategic voting suggestion,1481,159,2130,3770
+appeal to emotion,685,93,1442,2220
+bandwagon effect,1248,16,675,1939
+appeal to credibility,994,18,308,1320
+shifting the burden of proof,533,64,633,1230
+exaggeration,180,134,270,584
+appeal to rules,105,2,169,276
+information overload,139,0,61,200
+vagueness,60,2,93,155
+lying,72,32,48,152
+distraction,11,0,74,85
+appeal to relationship,49,0,4,53
+feigning ignorance,38,0,5,43
+self-deprecation,16,0,5,21
+gaslighting,10,0,3,13
+projection,7,0,2,9
+minimization,5,0,3,8
+confirmation bias exploitation,1,0,0,1
+denial without evidence,0,0,1,1

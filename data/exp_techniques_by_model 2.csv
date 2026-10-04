@@ -1,0 +1,9 @@
+metric,gemma4-31b,qwen3-next-80b,qwen36-35b,total
+total_games,1,6,5,12
+total_uses,2,86,37,125
+Appeal to Logic,1,44,14,59
+Strategic Voting Suggestion,0,15,13,28
+Appeal to Emotion,1,14,3,18
+Shifting the Burden of Proof,0,10,4,14
+Appeal to Credibility,0,2,2,4
+Bandwagon Effect,0,1,1,2

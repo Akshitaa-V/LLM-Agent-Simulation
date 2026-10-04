@@ -1,0 +1,121 @@
+file_name,role,is_win
+exp_norag_qwen36_vs_qwen3next_1.json,impostor,False
+exp_norag_qwen36_vs_qwen3next_1.json,crewmate,True
+exp_norag_qwen36_vs_qwen3next_10.json,impostor,False
+exp_norag_qwen36_vs_qwen3next_10.json,crewmate,True
+exp_norag_qwen36_vs_qwen3next_2.json,impostor,True
+exp_norag_qwen36_vs_qwen3next_2.json,crewmate,False
+exp_norag_qwen36_vs_qwen3next_3.json,impostor,False
+exp_norag_qwen36_vs_qwen3next_3.json,crewmate,True
+exp_norag_qwen36_vs_qwen3next_4.json,impostor,True
+exp_norag_qwen36_vs_qwen3next_4.json,crewmate,False
+exp_norag_qwen36_vs_qwen3next_5.json,impostor,False
+exp_norag_qwen36_vs_qwen3next_5.json,crewmate,True
+exp_norag_qwen36_vs_qwen3next_6.json,impostor,False
+exp_norag_qwen36_vs_qwen3next_6.json,crewmate,True
+exp_norag_qwen36_vs_qwen3next_7.json,impostor,False
+exp_norag_qwen36_vs_qwen3next_7.json,crewmate,True
+exp_norag_qwen36_vs_qwen3next_8.json,impostor,False
+exp_norag_qwen36_vs_qwen3next_8.json,crewmate,True
+exp_norag_qwen36_vs_qwen3next_9.json,impostor,False
+exp_norag_qwen36_vs_qwen3next_9.json,crewmate,True
+exp_rag_qwen36rag_vs_qwen3next_1 2.json,impostor,True
+exp_rag_qwen36rag_vs_qwen3next_1 2.json,crewmate,False
+exp_rag_qwen36rag_vs_qwen3next_1.json,impostor,True
+exp_rag_qwen36rag_vs_qwen3next_1.json,crewmate,False
+exp_rag_qwen36rag_vs_qwen3next_11.json,impostor,False
+exp_rag_qwen36rag_vs_qwen3next_11.json,crewmate,True
+exp_rag_qwen36rag_vs_qwen3next_12.json,impostor,False
+exp_rag_qwen36rag_vs_qwen3next_12.json,crewmate,True
+exp_rag_qwen36rag_vs_qwen3next_15.json,impostor,False
+exp_rag_qwen36rag_vs_qwen3next_15.json,crewmate,True
+exp_rag_qwen36rag_vs_qwen3next_16.json,impostor,True
+exp_rag_qwen36rag_vs_qwen3next_16.json,crewmate,False
+exp_rag_qwen36rag_vs_qwen3next_17.json,impostor,False
+exp_rag_qwen36rag_vs_qwen3next_17.json,crewmate,True
+exp_rag_qwen36rag_vs_qwen3next_18.json,impostor,False
+exp_rag_qwen36rag_vs_qwen3next_18.json,crewmate,True
+exp_rag_qwen36rag_vs_qwen3next_19.json,impostor,True
+exp_rag_qwen36rag_vs_qwen3next_19.json,crewmate,False
+exp_rag_qwen36rag_vs_qwen3next_2 2.json,impostor,False
+exp_rag_qwen36rag_vs_qwen3next_2 2.json,crewmate,True
+exp_rag_qwen36rag_vs_qwen3next_2.json,impostor,False
+exp_rag_qwen36rag_vs_qwen3next_2.json,crewmate,True
+exp_rag_qwen36rag_vs_qwen3next_20.json,impostor,False
+exp_rag_qwen36rag_vs_qwen3next_20.json,crewmate,True
+exp_rag_qwen36rag_vs_qwen3next_21.json,impostor,False
+exp_rag_qwen36rag_vs_qwen3next_21.json,crewmate,True
+exp_rag_qwen36rag_vs_qwen3next_22.json,impostor,False
+exp_rag_qwen36rag_vs_qwen3next_22.json,crewmate,True
+exp_rag_qwen36rag_vs_qwen3next_23.json,impostor,False
+exp_rag_qwen36rag_vs_qwen3next_23.json,crewmate,True
+exp_rag_qwen36rag_vs_qwen3next_25.json,impostor,True
+exp_rag_qwen36rag_vs_qwen3next_25.json,crewmate,False
+exp_rag_qwen36rag_vs_qwen3next_26.json,impostor,False
+exp_rag_qwen36rag_vs_qwen3next_26.json,crewmate,True
+exp_rag_qwen36rag_vs_qwen3next_27.json,impostor,False
+exp_rag_qwen36rag_vs_qwen3next_27.json,crewmate,True
+exp_rag_qwen36rag_vs_qwen3next_28.json,impostor,True
+exp_rag_qwen36rag_vs_qwen3next_28.json,crewmate,False
+exp_rag_qwen36rag_vs_qwen3next_29.json,impostor,False
+exp_rag_qwen36rag_vs_qwen3next_29.json,crewmate,True
+exp_rag_qwen36rag_vs_qwen3next_30.json,impostor,False
+exp_rag_qwen36rag_vs_qwen3next_30.json,crewmate,True
+exp_rag_qwen36rag_vs_qwen3next_31.json,impostor,True
+exp_rag_qwen36rag_vs_qwen3next_31.json,crewmate,False
+exp_rag_qwen36rag_vs_qwen3next_33.json,impostor,False
+exp_rag_qwen36rag_vs_qwen3next_33.json,crewmate,True
+exp_rag_qwen36rag_vs_qwen3next_34.json,impostor,True
+exp_rag_qwen36rag_vs_qwen3next_34.json,crewmate,False
+exp_rag_qwen36rag_vs_qwen3next_35.json,impostor,False
+exp_rag_qwen36rag_vs_qwen3next_35.json,crewmate,True
+exp_rag_qwen36rag_vs_qwen3next_36.json,impostor,False
+exp_rag_qwen36rag_vs_qwen3next_36.json,crewmate,True
+exp_rag_qwen36rag_vs_qwen3next_4 2.json,impostor,False
+exp_rag_qwen36rag_vs_qwen3next_4 2.json,crewmate,True
+exp_rag_qwen36rag_vs_qwen3next_4.json,impostor,False
+exp_rag_qwen36rag_vs_qwen3next_4.json,crewmate,True
+exp_rag_qwen36rag_vs_qwen3next_5 2.json,impostor,False
+exp_rag_qwen36rag_vs_qwen3next_5 2.json,crewmate,True
+exp_rag_qwen36rag_vs_qwen3next_5.json,impostor,False
+exp_rag_qwen36rag_vs_qwen3next_5.json,crewmate,True
+exp_rag_qwen36rag_vs_qwen3next_6 2.json,impostor,False
+exp_rag_qwen36rag_vs_qwen3next_6 2.json,crewmate,True
+exp_rag_qwen36rag_vs_qwen3next_6.json,impostor,False
+exp_rag_qwen36rag_vs_qwen3next_6.json,crewmate,True
+exp_rag_qwen36rag_vs_qwen3next_7 2.json,impostor,False
+exp_rag_qwen36rag_vs_qwen3next_7 2.json,crewmate,True
+exp_rag_qwen36rag_vs_qwen3next_7.json,impostor,False
+exp_rag_qwen36rag_vs_qwen3next_7.json,crewmate,True
+exp_rag_qwen36rag_vs_qwen3next_8 2.json,impostor,False
+exp_rag_qwen36rag_vs_qwen3next_8 2.json,crewmate,True
+exp_rag_qwen36rag_vs_qwen3next_8.json,impostor,False
+exp_rag_qwen36rag_vs_qwen3next_8.json,crewmate,True
+exp_rag_qwen36rag_vs_qwen3next_9 2.json,impostor,False
+exp_rag_qwen36rag_vs_qwen3next_9 2.json,crewmate,True
+exp_rag_qwen36rag_vs_qwen3next_9.json,impostor,False
+exp_rag_qwen36rag_vs_qwen3next_9.json,crewmate,True
+exp_smoke_gemma_vs_qwen36_1 2.json,impostor,False
+exp_smoke_gemma_vs_qwen36_1 2.json,crewmate,True
+exp_smoke_gemma_vs_qwen36_1.json,impostor,False
+exp_smoke_gemma_vs_qwen36_1.json,crewmate,True
+exp_smoke_qwen36_vs_qwen3next_1 2.json,impostor,False
+exp_smoke_qwen36_vs_qwen3next_1 2.json,crewmate,True
+exp_smoke_qwen36_vs_qwen3next_1.json,impostor,False
+exp_smoke_qwen36_vs_qwen3next_1.json,crewmate,True
+exp_smoke_qwen3next_vs_qwen36_1 2.json,impostor,False
+exp_smoke_qwen3next_vs_qwen36_1 2.json,crewmate,True
+exp_smoke_qwen3next_vs_qwen36_1.json,impostor,False
+exp_smoke_qwen3next_vs_qwen36_1.json,crewmate,True
+exp_smoke_qwen3next_vs_qwen3next_1 2.json,impostor,False
+exp_smoke_qwen3next_vs_qwen3next_1 2.json,crewmate,True
+exp_smoke_qwen3next_vs_qwen3next_1.json,impostor,False
+exp_smoke_qwen3next_vs_qwen3next_1.json,crewmate,True
+qwen3-next-80b-a3b-instruct_qwen3-next-80b-a3b-instruct_1 2.json,impostor,False
+qwen3-next-80b-a3b-instruct_qwen3-next-80b-a3b-instruct_1 2.json,crewmate,True
+qwen3-next-80b-a3b-instruct_qwen3-next-80b-a3b-instruct_1.json,impostor,False
+qwen3-next-80b-a3b-instruct_qwen3-next-80b-a3b-instruct_1.json,crewmate,True
+smoke_qwen3next_vs_qwen3next_1 2.json,impostor,True
+smoke_qwen3next_vs_qwen3next_1 2.json,crewmate,False
+smoke_qwen3next_vs_qwen3next_1.json,impostor,True
+smoke_qwen3next_vs_qwen3next_1.json,crewmate,False

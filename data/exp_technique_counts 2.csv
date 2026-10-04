@@ -1,0 +1,8 @@
+file,Appeal to Credibility,Appeal to Emotion,Appeal to Logic,Bandwagon Effect,Shifting the Burden of Proof,Strategic Voting Suggestion
+exp_rag_qwen36rag_vs_qwen3next_1.json,1,2,9,1,0,6
+exp_rag_qwen36rag_vs_qwen3next_2.json,0,1,5,0,1,1
+exp_smoke_gemma_vs_qwen36_1.json,1,1,3,0,2,5
+exp_smoke_qwen36_vs_qwen3next_1.json,0,2,8,0,3,3
+exp_smoke_qwen3next_vs_qwen36_1.json,1,1,9,0,3,6
+exp_smoke_qwen3next_vs_qwen3next_1.json,1,1,9,0,1,0
+smoke_qwen3next_vs_qwen3next_1.json,0,10,16,1,4,7

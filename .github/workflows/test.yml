@@ -1,0 +1,67 @@
+name: Run Tests on src Changes
+
+# Trigger the workflow on push, pull request, or manually via workflow_dispatch
+on:
+  push:
+    paths:
+      - 'src/**'                      # Trigger on changes in the src directory
+      - 'tests/**'                    # Trigger on changes in the tests directory
+      - '.github/workflows/test.yml'  # Trigger on changes to the workflow file
+  pull_request:
+    paths:
+      - 'src/**'
+      - 'tests/**'
+      - '.github/workflows/test.yml'
+  workflow_dispatch:  # Allows manual triggering of the workflow
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    # Set environment variables for the job
+    env:
+      OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+
+    steps:
+      # ----------------------------------------------
+      #       Checkout Repository
+      # ----------------------------------------------
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      # ----------------------------------------------
+      #       Set Up Python
+      # ----------------------------------------------
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'  # Specify your Python version
+
+      # ----------------------------------------------
+      #       Install Poetry
+      # ----------------------------------------------
+      - name: Install Poetry
+        uses: snok/install-poetry@v1
+        with:
+          version: '1.8.4'  # Specify the desired Poetry version
+
+      # ----------------------------------------------
+      #       Install Dependencies
+      # ----------------------------------------------
+      - name: Install dependencies
+        run: poetry install --no-interaction
+
+      # ----------------------------------------------
+      #       Run Tests
+      # ----------------------------------------------
+      - name: Run Pytest
+        run: poetry run pytest
+
+  pre-commit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: 3.11
+      - uses: pre-commit/action@v3.0.1
